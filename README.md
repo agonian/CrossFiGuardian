@@ -2,6 +2,7 @@
 ⚔ Ensuring trust in the Node world, safeguarding the security and accuracy of code ⚔
 
 ###########################################################################################
+
 Yeni bir MetaMask hesabı açıyoruz ve gizli kelimeleri not alıyoruz. 
 Testnetlere özel oluşturduğumuz bir hesabımız varsa ve gizli kelimeleri unuttuysak, 
 MetaMask'te sağ üst köşedeki üç noktaya tıklıyoruz, 
