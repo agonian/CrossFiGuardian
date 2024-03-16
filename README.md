@@ -1,7 +1,7 @@
 # CrossFiGuardian
 ⚔ Ensuring trust in the Node world, safeguarding the security and accuracy of code ⚔
 
-###########################################################################################
+###################################################################
 
 Yeni bir MetaMask hesabı açıyoruz ve gizli kelimeleri not alıyoruz. 
 Testnetlere özel oluşturduğumuz bir hesabımız varsa ve gizli kelimeleri unuttuysak, 
@@ -17,7 +17,7 @@ Metamask hesabımızda ağ değiştirdiğimiz alandan manuel ağ ekle seçeneği
 - Sembol: XFI
 - Explorer URL: https://scan.testnet.ms
 
-###########################################################################################
+###################################################################
 
 Ağı ekledikten sonra, 
 https://testpad.xfi.foundation/ adresine gidiyoruz.
@@ -27,7 +27,7 @@ Sağ üst köşede, token alabileceğimiz bir bölüm var. Buradan token talep e
 Telegram onayı gerekecektir. Telegramdan onay veriyoruz.
 10 XFI ve 100 MPX coin alıyoruz.
 
-###########################################################################################
+###################################################################
 
 Daha sonra, https://test.xficonsole.com/ adresine giriyoruz. 
 "Login with a seed phrase" (Gizli kelimelerle giriş yap) butonuna tıklıyoruz ve gizli kelimelerimizi giriyoruz. 
